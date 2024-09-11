@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://idenalon.github.io/sitemap.html.gz
+Sitemap: https://idenalon.github.io/app/sitemap.html.gz
+Sitemap: https://idenalon.github.io/assets/sitemap.html.gz
+Sitemap: https://idenalon.github.io/css/sitemap.html.gz
+Sitemap: https://idenalon.github.io/includes/sitemap.html.gz
+Sitemap: https://idenalon.github.io/item/sitemap.html.gz
+Sitemap: https://idenalon.github.io/src/sitemap.html.gz
